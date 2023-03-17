@@ -1,0 +1,8 @@
+C:\Users\jenny\source\repos\DependencyInjEg\DependencyInjEg\bin\Debug\DependencyInjEg.exe.config
+C:\Users\jenny\source\repos\DependencyInjEg\DependencyInjEg\bin\Debug\DependencyInjEg.exe
+C:\Users\jenny\source\repos\DependencyInjEg\DependencyInjEg\bin\Debug\DependencyInjEg.pdb
+C:\Users\jenny\source\repos\DependencyInjEg\DependencyInjEg\obj\Debug\DependencyInjEg.csproj.AssemblyReference.cache
+C:\Users\jenny\source\repos\DependencyInjEg\DependencyInjEg\obj\Debug\DependencyInjEg.csproj.SuggestedBindingRedirects.cache
+C:\Users\jenny\source\repos\DependencyInjEg\DependencyInjEg\obj\Debug\DependencyInjEg.csproj.CoreCompileInputs.cache
+C:\Users\jenny\source\repos\DependencyInjEg\DependencyInjEg\obj\Debug\DependencyInjEg.exe
+C:\Users\jenny\source\repos\DependencyInjEg\DependencyInjEg\obj\Debug\DependencyInjEg.pdb
